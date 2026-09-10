@@ -15,7 +15,7 @@ El objetivo de este proyecto fue diseñar e implementar una solución de Intelig
 El proyecto se desarrolló en dos etapas principales:
 
 1. **Orden y Estructuración de los Datos (Data Warehouse):**
-   Se organized la información en un modelo analítico limpio compuesto por métricas de ventas y dimensiones de consulta rápida:
+   Se organizó la información en un modelo analítico limpio compuesto por métricas de ventas y dimensiones de consulta rápida:
    - **Clientes y Destinos:** Para entender la distribución geográfica y los tipos de clientes.
    - **Productos:** Para identificar el catálogo de mayor rotación y margen.
    - **Transportistas:** Para evaluar el desempeño de la cadena de distribución.
