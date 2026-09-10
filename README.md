@@ -51,3 +51,17 @@ El panel de control permite responder a preguntas estratégicas:
 
 - **Antonia Barrera** — Estudiante de Ingeniería en Informática  
   *Proyecto semestral desarrollado de forma colaborativa para la asignatura de Inteligencia de Negocios.*
+
+
+---
+
+## 📸 Vistas del Dashboard en Power BI
+
+### 1. Vista Principal (Resumen Ejecutivo & Geolocalización)
+![Vista Principal](dashboard_principal.png)
+
+### 2. Vista KPI Vendedor (Desempeño del Equipo Comercial)
+![KPI Vendedor](dashboard_kpi_vendedor.png)
+
+### 3. Vista KPI Categoría (Análisis de Portafolio y Territorios)
+![KPI Categoría](dashboard_kpi_categoria.png)
